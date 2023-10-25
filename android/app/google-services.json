@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997969979034",
+    "project_id": "ig-project-df55f",
+    "storage_bucket": "ig-project-df55f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997969979034:android:592bf19dbe7035d7dba123",
+        "android_client_info": {
+          "package_name": "com.example.ig_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997969979034-uo5vso7okop72u8rn9g2k4o4pi8dqqsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Adm42mRFHAADYj5Og5GM7F50Nbsaq5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997969979034-uo5vso7okop72u8rn9g2k4o4pi8dqqsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
